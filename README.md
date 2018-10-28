@@ -1,2 +1,2 @@
 # Lan-Chat
-A chat application for Local Area Network
+A Chat Application for users connected by a Local Area Network
